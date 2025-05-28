@@ -20,7 +20,7 @@ Monthly NDVI data for the years 2017-2024 is collected by taking the median valu
 Finally, the annual NDVI parameters (e.g., mean, max, sum) are determined using the monthly data.
 Here, a resolution of 10m and a maximum allowable cloud coverage of 20% are applied.
 
-- Weather data: Using the Luxembourg city's coordinates (49.8153°N and 6.1296°E), the daily weather data (e.g., precipitation, avg. temp, humidity, cloud amount, etc.) from the NASA POWER for the last 24 years (2000-2024) are collected.
+- Weather data: Using the Luxembourg city's coordinates (49.8153°N and 6.1296°E), the daily weather data (e.g., precipitation, avg. temp, humidity, cloud amount, etc.) from the NASA POWER for the last 25 years (2000-2024) are collected.
 - The annual weather data is then aggregated from this dataset.
 
 - Pesticides and Yield statistics from 2000 to 2022 are collected from FAO: https://www.fao.org/faostat/en/#data.
